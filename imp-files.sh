@@ -1,0 +1,3 @@
+Sample gmaps keys:
+AIzaSyBWM2ThVun9j1omppgKnyIfEbIa9GqKEEk
+AIzaSyCLGgl_YAQePavme0hDq3kaOPzK9GLfTgG
